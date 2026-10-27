@@ -1,0 +1,15 @@
+#title {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:cornflowerblue
+}
+.navbar {
+    background-color: #yellow;
+    overflow: hidden;
+    text-align: right;
+    padding: 10px 40px 0 0;
+}
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
